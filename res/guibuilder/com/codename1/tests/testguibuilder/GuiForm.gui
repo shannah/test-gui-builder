@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="LayeredLayout" layeredLayoutPreferredWidthMM="0.0" layeredLayoutPreferredHeightMM="0.0"  autolayout="true" title="GuiForm" scrollableY="true" name="GuiForm">
+  <component type="Label" text="Label" name="MyLabel">
+    <layoutConstraint insets="13.735178% auto auto 32.925587%" referenceComponents="-1 -1 -1 -1" referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+</component>
