@@ -1,0 +1,1 @@
+Test project to demonstrate GUI variables being generated protected for issue https://github.com/codenameone/CodenameOne/issues/2643
